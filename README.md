@@ -1,8 +1,7 @@
-Todo List App
-Description
+📝 Todo List App
 
-This is a simple Todo List application built with React and Vite.
-It displays a list of tasks and is part of a learning project to practice React basics.
+A simple Todo List application built with React and Vite.
+This project helps practice React fundamentals like components, props, and rendering lists.
 
 Installation
 Clone the repository:
