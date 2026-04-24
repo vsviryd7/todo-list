@@ -11,12 +11,12 @@ const todos = [
 
 function App() {
     const [todoList, setTodoList] = useState(todos);
-    
+
       return (
         <div>
           <h1>My Todos</h1>
             <TodoForm />
-            <TodoList todos={todos}/>
+            <TodoList todoList={todoList} />
         </div>
   );
 }
